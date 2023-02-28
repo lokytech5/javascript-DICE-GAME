@@ -1,7 +1,7 @@
 # **Dice Game**
 
 
-![image of dice game][image_ref_tboe26h6]
+![image of dice game](/images/javascript Dice game.png)
 
 #### A simple JavaScript-based dice game that determines the winner between two players.
 
