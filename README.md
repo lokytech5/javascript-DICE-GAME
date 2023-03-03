@@ -11,7 +11,7 @@
 3. If both players roll the same number, the game is a draw.</br>
 
 ## Play the Game
-You can play the game online at the following link:[dice game]()
+You can play the game online at the following link:[dice game](https://comfy-tarsier-e49393.netlify.app)
 ## Game Features
 - The game utilizes JavaScript to randomly change the dice image each time the page is refreshed.</br>
 
